@@ -42,15 +42,4 @@ I am a Computer Science (Data Science) student at **Punjab Engineering College (
   <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=kunalpec&theme=dark&hide_border=false" />
 </p>
 
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/kunal-93388931b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal" height="30" width="40" /></a>
-<a href="mailto:kunal2612004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kunal" height="30" width="40" /></a>
-</p>
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=kunalpec&icon=0&color=0" alt="visitor count" />
-</p>
+-
