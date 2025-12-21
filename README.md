@@ -1,9 +1,36 @@
-# 💫 About Me:
-# Hi 👋, I'm Kunal<br><br>🎓 **BTech CSE (Data Science)** student at **PEC**  <br>💻 Passionate about **AI, Machine Learning, NLP & Full-Stack Development**  <br>🚀 Love building real-world AI-powered applications<br><br>---<br><br>## 🔗 Connect with Me<br>- 💼 LinkedIn: [linkedin.com/in/kunal-93388931b](https://www.linkedin.com/in/kunal-93388931b/)<br>- 🧑‍💻 GitHub: [github.com/kunalpec](https://github.com/kunalpec)<br>- 📧 Email: [kunal2612004@gmail.com](mailto:kunal2612004@gmail.com)<br>- 📞 Phone: +91-9592951721<br><br>---<br><br>## 🎓 Education<br><br>- **BTech in Computer Science (Data Science)**  <br>  *Punjab Engineering College (PEC)*  <br><br>- **CBSE Class XII** <br>  Government Model Senior Secondary School, Sector 22-A (2022)<br><br>- **CBSE Class X**<br><br>  L.D.C. Jain Public School, Punjab (2020)<br><br>---<br><br>## 🚀 Projects<br><br>### 🎬 CineMatch – NLP-based Movie Recommendation System<br>**Tech Stack:** NLP, React, Django, Kaggle MovieLens 1M  <br><br>- Built a movie recommendation system using NLP to analyze user preferences  <br>- Processed **140K+ movie & genre records**  <br>- Implemented **Django backend** and **React frontend**  <br>- Displayed trailers with fast and accurate recommendations  <br><br>---<br><br>### 📚 LearnPath AI – Smart Learning Roadmap Generator<br>**Tech Stack:** Django, LangChain, OpenRouter (Llama 3.3 70B), MongoDB, ChromaDB, YouTube API  <br><br>- AI platform that generates **personalized learning roadmaps**  <br>- Used **LangChain + LLMs** for smart guidance and memory  <br>- Integrated YouTube & course discovery using **semantic search**  <br>- Built adaptive study plans with progress tracking  <br><br>---<br><br>### 🖼️ Image Caption Generator (CNN + LSTM)<br>**Tech Stack:** Python, Deep Learning, Streamlit, Kaggle 8K Dataset  <br><br>- Built an image captioning model with **0.74 accuracy**  <br>- Demonstrated scalability up to **50K+ images with GPU**  <br>- Deployed as an interactive **Streamlit app**<br><br>---<br><br>## 🛠️ Skills<br><br>### 💻 Programming Languages<br>- C++, Python, R, SQL, JavaScript<br><br>### 🧠 Computer Science Fundamentals<br>- Data Structures & Algorithms  <br>- OOP, OS, DBMS, Computer Networks  <br><br>### 🌐 Web Development<br>- React.js, Django, MySQL, HTML, CSS  <br><br>### 🧰 Tools & Platforms<br>- Git, GitHub, VS Code, Jupyter Notebook  <br>- Google Cloud, Kaggle  <br><br>### 🤖 Machine Learning<br>- Classification, Regression, Clustering  <br>- NLP, OpenCV, Data Processing  <br>- Data Visualization  <br><br>### 🔥 Deep Learning<br>- ANN, CNN, RNN, LSTM  <br>- TensorFlow, PyTorch, LangChain  <br><br>---<br><br>## 🏆 Certifications & Achievements<br><br>- 🚀 **NASA Space Exploratory Hackathon** – Built an innovative space exploration solution  <br>- 💡 **eSummit Hackathon** – Developed a complete solution under time constraints  <br>- 📜 **NLP Certification** – Text classification & sentiment analysis  <br><br>---<br><br>⭐ *Always eager to learn, build, and contribute to impactful tech projects!*<br>
-
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+Hi, I’m Kunal 👋
+
+🎓 I am a Computer Science (Data Science) undergraduate student at Punjab Engineering College (PEC).
+🤖 I am interested in Artificial Intelligence, Machine Learning, NLP, and Full-Stack Development.
+🛠️ I like building practical projects that solve real-world problems.
+
+💼 What I work on
+• 🤖 Machine Learning and Deep Learning
+• 🧠 NLP-based applications
+• 🌐 Full-stack web development using Django and React
+• 🚀 AI-powered tools and learning platforms
+
+🧩 Skills
+• 💻 Programming: C++, Python, SQL, JavaScript
+• 🌐 Web Development: Django, React, HTML, CSS
+• 📊 Machine Learning: Classification, Regression, Clustering, NLP
+• 🔥 Deep Learning: CNN, RNN, LSTM, PyTorch, TensorFlow
+• 🛠️ Tools: Git, GitHub, VS Code, Jupyter Notebook, Kaggle
+
+🎓 Education
+BTech in Computer Science (Data Science)
+Punjab Engineering College (PEC)
+
+📬 Contact
+🐙 GitHub: https://github.com/kunalpec
+
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-93388931b
+
+📧 Email: kunal2612004@gmail.com
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kunalpec&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kunalpec&theme=dark&hide_border=false)<br/>
@@ -12,4 +39,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kunalpec&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
