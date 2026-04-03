@@ -31,6 +31,8 @@ I am a Computer Science (Data Science) student at **Punjab Engineering College (
 * **Full-Stack Development:** Building end-to-end applications with Next.js & React on the frontend, Django & Express.js on the backend, and MongoDB & PostgreSQL for data persistence.
 * **Problem Solving:** Building AI-powered tools that address real-world challenges.
 
+---
+
 ### 🎓 Education
 
 * **B.Tech in Computer Science (Data Science)**
@@ -38,12 +40,8 @@ I am a Computer Science (Data Science) student at **Punjab Engineering College (
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunalpec&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpec&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-<p align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=kunalpec&theme=dark&hide_border=false" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalpec&theme=dracula&hide_border=true" />
 </p>
